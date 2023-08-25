@@ -1,7 +1,6 @@
 /*
  * File: stack.c
- * Auth: aicha aicha
- *       
+ * Auth: aicha aicha   
  */
 
 #include "monty.h"
