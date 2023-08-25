@@ -1,7 +1,6 @@
 /*
  * File: run_monty.c
  * Auth: aicha aicha
- *       
  */
 
 #include "monty.h"
